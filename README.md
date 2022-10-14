@@ -1,4 +1,3 @@
-Test Pipeline
 
 # Contributing
 
